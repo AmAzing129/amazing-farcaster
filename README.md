@@ -1,5 +1,9 @@
 # Awesome Farcaster [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Amazing
+
+- [Pinata](https://www.pinata.cloud/) - store and retrieve media on IPFS and build social applications with Farcaster.
+
 ## Clients
 
 ### General

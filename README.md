@@ -14,8 +14,10 @@
   - [Web](https://www.supercast.xyz/)
 - [Yup](https://yup.io/)
   - [Web](https://app.yup.io/feed/farcaster), [iOS](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343), [Android](https://play.google.com/store/apps/details?id=io.yup.app)
-- [Flink](http://flink.fyi/)
-  - [Web](http://flink.fyi/)
+- [Nook](https://nook.social/)
+  - [Web](https://nook.social/), iOS coming soon
+- [Recaster](https://dub.sh/recaster)
+  - [iOS](https://dub.sh/recaster)
 - [far.quest](https://far.quest)
   - [Web](https://far.quest)
 - [Litecast](https://github.com/dylsteck/litecast)
@@ -28,7 +30,7 @@
 ### Specialized
 
 - [Buoy](https://buoy.club)
-  - Search & Alerts [iOS](https://buoy.club), [Android](https://buoy.club) 
+  - Search & Alerts [iOS](https://buoy.club), [Android](https://buoy.club)
 - [Searchcaster](https://searchcaster.xyz/)
   - Search - [Web](https://searchcaster.xyz/)
 - [Crew](https://www.hifromcrew.com/join)
@@ -82,6 +84,7 @@
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
 - [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
 - [Farcaster.vote](https://farcaster.vote/app) - Verifiable & decentralized polls within Farcaster Frames.
+- [Composecastxyz](https://github.com/0xSemicolon/composecastxyz) - Privacy preserving, MIT licensed compose cast gateway
 
 ## Bots
 
@@ -98,6 +101,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@translate](https://warpcast.com/translate) - Reply to any cast with "@translate `Language`" to get the translated text.
 - [@ballot](https://warpcast.com/ballot) - Write mention to @ballot with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/ballot/0xeb1a95bb).
 - [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
+- [@indexer](https://warpcast.com/indexer) - AI-powered social search engine leveraging algorithmic and social curation.
 
 ### Community
 
@@ -194,6 +198,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 ### Analytics and Data
 
 - [Farcaster User Stats](https://www.farcasteruserstats.com/) - User analytics. - [GitHub](https://github.com/mattwelter/farcaster-user-stats)
+- [CastSense](https://www.castsense.xyz/) - User and channel analytics.
 - [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
 - [Farcaster Network](https://farcaster.network) - Network dashboard.
 - [Casterscan](https://casterscan.com) - A block explorer for Farcaster.
